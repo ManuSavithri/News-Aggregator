@@ -1,4 +1,4 @@
-const apiKey = '7d8a3759c991472f855e04a6ad98604f'; // 🔑 Replace with your actual API key
+const apiKey = 'YOUR_API_KEY'; // 🔑 Replace with your actual API key
 const categoryDropdown = document.getElementById('category');
 const searchInput = document.getElementById('search');
 const newsContainer = document.getElementById('news-container');
